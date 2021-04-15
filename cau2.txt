@@ -1,0 +1,6 @@
+Cách nào để trên github cập nhật được những thay đổi mình vừa commit ở máy tính của mình không?
+ Sử dụng :
+Sử dụng: git add . ( Xác định lưu tất cả các file đã được thay đổi)
+Sử dụng: git commit -m "Thông điệp thay đôi"(nó như 1 cái đánh dấu bạn đã thay đổi)
+Sử dụng git push origin master 
+Để kiểm tra  file đã được lưu chưa sử dụng:git status 
