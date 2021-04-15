@@ -1,0 +1,1 @@
+Lấy tất cả những thay đổi mới nhất trên github của mình về máy tính của mình : git pull origin master 
